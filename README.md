@@ -46,3 +46,10 @@
 
 - vulnerable (N-1): [ntoskrnl.exe.10.0.22621.1344](CVE-2023-23420/ntoskrnl.exe.10.0.22621.1344)
 - patched: [ntoskrnl.exe.10.0.22621.1413](CVE-2023-23420/ntoskrnl.exe.10.0.22621.1413)
+
+# Exercise 6 - CVE-2021-24043 (Bonus)
+
+- vulnerable (N-1): [com.whatsapp.2.21.23.1-arm64-v8a.libwhatsapp.so](CVE-2021-24043/com.whatsapp.2.21.23.1-arm64-v8a.libwhatsapp.so)
+- patched: [com.whatsapp.2.21.23.2-arm64-v8a.libwhatsapp.so](CVE-2021-24043/com.whatsapp.2.21.23.2-arm64-v8a.libwhatsapp.so)
+- Ghidra Analyzed Project
+  - [CVE-2021-24043.gar](https://github.com/clearbluejar/recon2023-resources/releases/download/v1.0.0/CVE-2021-24043.gar) 
