@@ -13,6 +13,9 @@
   - Install VS code [mermaidjs preview](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid) (optional)
 - [ghidra_scripts](ghidra_scripts/)
 
+# Optional VM
+- [Download lubuntu VM (~8GB)](https://drive.google.com/file/d/1tP3cu78KJi7O5FdpJ16UbeNrIfzKX4W3/view?usp=sharing)
+
 # Exercise 1 - CVE-2023-21768
 
 - vulnerable (N-1): [afd.sys.10.0.22621.1028](CVE-2023-21768/afd.sys.10.0.22621.1028)
